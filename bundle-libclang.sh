@@ -17,7 +17,7 @@
 
 LIBCLANG_VERSION=3.5
 
-zip -r  libclang-${LIBCLANG_VERSION}.zip ${LIBCLANG_VERSION}/*
+zip -r  libclang-${LIBCLANG_VERSION}.zip libclang-${LIBCLANG_VERSION}/*
 
 
 
